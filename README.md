@@ -11,5 +11,4 @@
 
 
 Скриншот сайта:
-
-![screen](https://i.ibb.co/7nwz7Mg/555.jpg)
+![screen](https://i.ibb.co/NLkWR45/sitescr.jpg)
