@@ -1,0 +1,53 @@
+/*Шрифты*/
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+
+/*Каркас сайта*/
+body {padding:0px; margin:0; background:#ecbf7c; font-size:14px; font-family:Arial, Sans-serif; color: #4a221a}
+#basic {width:1000px; min-height:500px; margin:0 auto; padding:20px 20px 20px 20px; background:#fff;}
+img {border:0;}
+a {color:#ff9c00;}
+a:hover {text-decoration:none;}
+ 
+/*Шапка сайта*/
+#head-site {height:300px;}
+li.none-bg {background:none!important;}
+.telefon {float:right;}
+ 
+/*Верхнее меню сайта*/
+#menu {width:990px; height:74px;}
+.bgmenu {width:990px; height:64px; background:#ba8565 url(image/menubac.jpg) repeat; padding:0 0 0 10px;}
+.bgmenu ul {margin:0; padding:0; list-style:none;}
+.bgmenu ul li {float:left; padding:0 2px 0 0;}
+.bgmenu ul li a {display:block; height:40px; padding:24px 27px 0 27px; color:#ffffff; text-decoration:none; text-transform:uppercase;}
+.bgmenu ul li a:hover {color:#fff; background:#b36739;}
+ 
+/*Контент бокс*/
+#content {width:960px; padding:20px 0 0 0; }
+ 
+/*Контент */
+/* О нас блок */
+.onasblock { float:right; width:900px; padding:0 0 0 20px; text-align:justify;}
+.onasblock h2 {font-size:50px; font-family: 'Caveat', cursive; color: #4a221a;}
+
+/* Ассортимент  блок */
+.asotimentblock{ float:right; width:900px; padding:0 0 0 20px; text-align:justify;}
+.asotimentblock h2 {font-size:50px; font-family: 'Caveat', cursive; color: #4a221a;}
+/* доставка блок */
+.dostavkablock{ float:right; width:900px; padding:0 0 0 20px; text-align:justify;}
+.dostavkablock h2 {font-size:50px; font-family: 'Caveat', cursive; color: #4a221a;}
+
+ 
+ 
+/*Подвал*/
+.mclr {clear:both; float:none; width:100%; height:1px;}
+#podval {border-top:10px solid #ba8565; margin-top:20px;}
+.p1 {float:left; width:300px; padding:15px 0 0 0;}
+.p2 {float:right; width:200px; text-align:right; padding:15px 20px 0 0;}
+.p3 {float:right; width:30px; padding:15px 0 0 0;}
+
+/*Кнопка наверх*/
+.topbutton {
+	position: fixed;right: 45px;bottom: 45px; color: #fff;}
+
+
