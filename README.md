@@ -6,7 +6,7 @@
 
 ГУАП: Бадретдинова Гузель
 
-**ДЕМО сайта можно посмотерть по ссылке:** 
+**ДЕМО сайта можно посмотреть по ссылке:** 
 [https://badretdinovag.github.io/BagetSite/](https://badretdinovag.github.io/BagetSite/)
 
 
